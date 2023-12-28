@@ -428,4 +428,5 @@ FodyWeavers.xsd
 ./gpuowl -d 0 -c 0 -b 64 -e 100000000 -t 1 -f 1 1234567
 project('gpuowl', 'cpp', default_options:['cpp_std=c++17', 'buildtype=debugoptimized'])
 -dir <folder> 
-
+package.json
+https://example.com/assets/app.e1c7a.bundle.js
