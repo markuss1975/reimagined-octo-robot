@@ -425,3 +425,6 @@ FodyWeavers.xsd
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 ./gpuowl -d 0 -c 0 -b 64 -e 100000000 -t 1 -f 1 1234567
+./gpuowl -d 0 -c 0 -b 64 -e 100000000 -t 1 -f 1 1234567
+
+
