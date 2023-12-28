@@ -430,3 +430,4 @@ project('gpuowl', 'cpp', default_options:['cpp_std=c++17', 'buildtype=debugoptim
 -dir <folder> 
 package.json
 https://example.com/assets/app.e1c7a.bundle.js
+https://github.githubassets.com/assets/react-code-view-06c1645c719b.js
